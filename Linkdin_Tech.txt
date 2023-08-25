@@ -1,0 +1,18 @@
+Linkdin:
+
+I'm a software engineer focused on the web & mobile. With 11 years of hands-on experience efficiently coding websites and applications using modern technologies HTML5, CSS3, JavaScript, ReactJS and CordovaJS.
+
+I actively seek out new technologies and stay up-to-date on industry trends and advancements, Continued learning has allowed me to stay ahead of the curve and deliver exceptional work in organization to meet the goals.
+
+I actively participated in requirement gathering, understanding the functional points and designing the architecture of the applications in agile methodology and achieved 100% success rate in delivering the products on time.
+
+Hands on experience on below technology stack:
+
+Web : HTML5, CSS3, Javascript, Jquery, React and Cordova
+Middleware: Java/J2EE, Spring, SpringBoot, Web services(Rest & SOAP)
+Build Tools: Maven, Gulp and Grunt.
+Code Repositories: Git and SVN
+
+1) Profile Picture
+2) TagLine
+	Talks about #career, #resume, #interview, #javascript, and #softwareengineer

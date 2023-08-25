@@ -1,0 +1,18 @@
+UHG:
+-----
+1) BFS, DFS
+2) Pure components in react js.
+
+Costco:
+--------
+1) Spring Batch
+2) DB - indexes, sequences, joins etc.
+3) Single Design Patter.
+4) How to improve the performance of the page.
+5) What is local/session storage, difference between cookies. 
+6) Microservices latency issues resolving.
+7) Costco high level architecture.
+8) How local/session storag works in different tabs in browser.
+9) Generator Vs Iterator
+10) Security providing to microservices, how will you secure(oauth, jwt etc).
+11) difference between calling function directly or with () parameters.

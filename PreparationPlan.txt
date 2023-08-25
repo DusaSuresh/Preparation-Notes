@@ -1,0 +1,72 @@
+1) EMI 2L every month.
+2) Indexed Funds
+3) Resume Preparation
+4) Html5 video + IQ
+5) css3 video + IQ
+6) Javascript Tutorial
+7) Node basics
+8) Type script basics
+9) Webpack, Builds, npm etc.
+====================================================
+1) CoreJava
+2) Java8 Features
+3) Spring(5.3) but worked on 4.3
+	- xml based config
+	- annotation
+	- object config
+	- IoC(Dependency Injection)
+	- AOP
+	- Acurator
+	- Bean Lifecycle
+	- Unit Testing
+4) Spring MVC
+	- MVC Architecture
+	- FrontController(DispatchServlet)
+	- RequestMapper
+	- ViewResolver
+5) SpringBoot.(Spring Boot 2.7.5)
+6) Spring Security.
+	- Login and authorization.
+	- session tokens.
+	- JWT Tokens.
+	- oAuth and LDAP.
+7) Spring Batch.
+8) Spring Global Exceptions.
+9) Spring JPA.
+10) microservices.
+
+=================================================================
+
+1) Maven Configurations.
+2) Docker, Jenkins, Pipelines and Kubernetes config.
+3) Swagger Config.
+4) Logging Config.
+5) Profiles config.
+6) Spring unit test( Mockito, JUnit etc.
+7) Design Patterns
+	- Singleton
+	- Immutable object(String).
+	- FrontController.(DispatchServlet)
+	- FactoryDesign( BeanFactory)
+
+
+
+Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
+		while(t-->0){
+		    
+		}
+		
+===================================================================
+
+ToDo Items:
+------------
+
+1) Complete Power Play 1 in TCS.
+2) Take you forward 30 days plan with striver (DSA)
+3) Coding & Concepts with himanshu (LLD & HLD & Design Patterns, SOLID Pattern)
+
+1) Another 2 Mutual funds ( Nifty 50 indexed fund)
+2) Increase stake in portfolio.
+
+		

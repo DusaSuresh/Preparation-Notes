@@ -1,0 +1,7 @@
+JUnit:
+======
+	- Required dependencies are below.
+		- Jnit.jar
+		- mockito-all.jar
+	- SUT --> System under test.
+	- 
